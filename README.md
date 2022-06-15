@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Flutter and Machine Learning**
 
-- 👨‍💻 All of my projects are available at [www.faranack.ir](www.faranack.ir)
+- 👨‍💻 All of my projects are available at [www.faranack.ir](https://www.faranack.ir)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
