@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fara</h1>
 <h3 align="center">A passionate developer</h3>
 
-- 🌱 I’m currently learning **Flutter and Machine Learning**
+- 🌱 
 
 - 👨‍💻 Some of my projects are available at [www.faranack.ir](https://www.faranack.ir)
 
