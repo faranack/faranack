@@ -17,14 +17,11 @@
   <a href="https://github.com/faranack">
     <img height="20" src="https://img.shields.io/github/followers/faranack?label=follow&logo=github&style=flat" />
   </a>
-  <a href="https://www.linkedin.com/in/charlesderek/">
-    <img height="20" src="https://img.shields.io/linkedin/follow/faranack?label=LinkedIn&color=blue&style=flat" />
-  </a>
 </p>
 
 <p align="left">
 	<img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faranack&layout=compact&show_icons=true&theme=dark" />
-  <!-- <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=faranack&theme=dark&show_icons=ture" /> -->
+        <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=faranack&theme=dark&show_icons=ture" />
 </p>
 
 <p>Top Skills</p>
