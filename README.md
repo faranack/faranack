@@ -18,7 +18,7 @@
     <img height="20" src="https://img.shields.io/github/followers/faranack?label=follow&logo=github&style=flat" />
   </a>
   <a href="https://www.linkedin.com/in/charlesderek/">
-    <img height="20" src="https://img.shields.io/twitter/follow/faranack?label=LinkedIn&color=blue&style=flat" />
+    <img height="20" src="https://img.shields.io/linkedin/follow/faranack?label=LinkedIn&color=blue&style=flat" />
   </a>
 </p>
 
