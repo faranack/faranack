@@ -14,9 +14,9 @@
 <!-- [![Awesomess](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://www.webplicity.co) -->
 
 <p align="left">
-  <a href="https://github.com/faranack">
+<!--   <a href="https://github.com/faranack">
     <img height="20" src="https://img.shields.io/github/followers/faranack?label=follow&logo=github&style=flat" />
-  </a>
+  </a> -->
   <a href="https://www.linkedin.com/in/faranack/">
     <img height="20" src="https://img.shields.io/twitter/follow/faranack?label=LinkedIn&color=blue&style=flat" />
   </a>
