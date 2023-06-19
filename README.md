@@ -1,3 +1,5 @@
+# faranack
+
 <h1 align="center">Hi 👋, I'm Fara</h1>
 <h3 align="center">A passionate developer</h3>
 
@@ -5,18 +7,35 @@
 
 - 👨‍💻 Some of my projects are available at [www.faranack.ir](https://www.faranack.ir)
 
-<h3 align="left">Connect with me:</h3>
+<!-- <p align="left">
+	<img alt="Waving Hi" height="150px" style="border-radius:5%;border:1px solid cyan" src="assets/hi.webp" />
+</p> -->
+
+<!-- [![Awesomess](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://www.webplicity.co) -->
+
 <p align="left">
-<a href="https://linkedin.com/in/faranack" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="faranack" height="30" width="40" /></a>
+  <a href="https://github.com/faranack">
+    <img height="20" src="https://img.shields.io/github/followers/faranack?label=follow&logo=github&style=flat" />
+  </a>
+  <a href="https://www.linkedin.com/in/charlesderek/">
+    <img height="20" src="https://img.shields.io/twitter/follow/faranack?label=LinkedIn&color=blue&style=flat" />
+  </a>
 </p>
 
-<h3 align="left">Languages:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-
+<p align="left">
+	<img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faranack&layout=compact&show_icons=true&theme=dark" />
+  <!-- <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=faranack&theme=dark&show_icons=ture" /> -->
 </p>
-<h3 align="left">Tools:</h3>
- </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
-  </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
-  </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
-  </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/>
+
+<p>Top Skills</p>
+
+[![My Skills](https://skillicons.dev/icons?i=linux,dart,flutter,react,html,css,js,nodejs,python,cpp)](https://skillicons.dev)
+
+<p>Other Skills</p>
+
+[![My Skills](https://skillicons.dev/icons?i=mongodb,androidstudio,git,github,gitlab,jquery,postman,vscode,webpack,tensorflow)](https://skillicons.dev)
+
+<br>
+
+<!-- [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/charlesderek) -->
+
